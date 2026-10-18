@@ -1,0 +1,15 @@
+LAVA WALKER - NeoForge 1.21.11
+==============================
+Marche sur la lave comme un Strider, immunite feu/lave. Shift = s'enfoncer dans la lave.
+
+COMMENT OBTENIR LE .JAR (sans rien installer, via GitHub, gratuit) :
+1. Cree un compte sur github.com puis "New repository" (nom: lavawalker, Public ou Private).
+2. Clique "uploading an existing file", dezippe ce zip et glisse TOUT le contenu du dossier
+   (y compris le dossier .github s'il est visible). Clique "Commit changes".
+   Si .github n'a pas ete envoye : Add file > Create new file, nom ".github/workflows/build.yml",
+   et colle le contenu du fichier build.yml.
+3. Onglet "Actions" : attends ~3-5 min que "Build" devienne vert.
+4. Clique sur le run > en bas "Artifacts" > LavaWalker-jar (zip) > dezippe > lavawalker-1.0.0.jar
+
+INSTALLATION POUR JOUER :
+- Installe NeoForge 1.21.11 (neoforged.net), puis mets lavawalker-1.0.0.jar dans le dossier "mods".
